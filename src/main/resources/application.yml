@@ -18,4 +18,3 @@ spring:
         default-topic: ${com.topic.simple}
       anotherTemplate:
         default-topic: ${com.topic.student}
-
