@@ -8,6 +8,9 @@ com:
     group: hostel-group
 
 spring:
+  profiles:
+    include:
+      - dev
   kafka:
     bootstrap-servers: localhost:9092
     consumer:
