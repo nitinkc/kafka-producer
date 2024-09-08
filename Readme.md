@@ -9,7 +9,7 @@ In another tab
 
 ```shell
 cd /Applications/Development/kafka_2.13-3.6.0
-bin/kafka-server-start.sh config/server.properties
+bin/kafka-se[pom.xml](pom.xml)rver-start.sh config/server.properties
 ```
 
 ## Conduktor
